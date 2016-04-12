@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Andrew Rikard</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
-    <link>https://anrikard.github.io/</link>
-    <atom:link href="https://anrikard.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Apr 2016 16:57:38 -0400</pubDate>
-    <lastBuildDate>Tue, 12 Apr 2016 16:57:38 -0400</lastBuildDate>
+    <title>Andrew rikard</title>
+    <description>Write your site description here. It will be used as your sites meta description as well!</description>
+    <link>http://anrikard.github.io/</link>
+    <atom:link href="http://anrikard.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 12 Apr 2016 17:33:59 -0400</pubDate>
+    <lastBuildDate>Tue, 12 Apr 2016 17:33:59 -0400</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -28,8 +27,8 @@
 
 </description>
         <pubDate>Tue, 12 Apr 2016 13:49:17 -0400</pubDate>
-        <link>https://anrikard.github.io/jekyll/update/2016/04/12/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">https://anrikard.github.io/jekyll/update/2016/04/12/welcome-to-jekyll.html</guid>
+        <link>http://anrikard.github.io/jekyll/update/2016/04/12/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://anrikard.github.io/jekyll/update/2016/04/12/welcome-to-jekyll/</guid>
         
         
         <category>jekyll</category>
