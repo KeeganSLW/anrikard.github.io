@@ -29,6 +29,10 @@ p, blockquote, pre,
 ul, ol, dl, figure,
 .highlight {
   margin-bottom: 15px; }
+  
+p {
+margin-bottom: 0px;
+}
 
 /**
  * Images
@@ -455,3 +459,4 @@ pre {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
