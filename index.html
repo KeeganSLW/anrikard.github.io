@@ -9,8 +9,7 @@ layout: default
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         
-
-        <p>
+        <p class="margin-front-page">
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </p>
         <span class="post-meta">{% include post-tags.html %}</span>
