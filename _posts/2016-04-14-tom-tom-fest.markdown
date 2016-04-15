@@ -4,7 +4,7 @@ title:  "Tom Tom Connections"
 date:   2016-04-14 15:49:17 -0400
 ---
 
-So I've made it to Tom Tom Fest at UVA, folks. And I'm absolutely loving it. It's an exhausting feast of entrepreneurship.
+So I've made it to [Tom Tom Fest](http://tomtomfest.com/) at UVA, folks. And I'm absolutely loving it. It's an exhausting feast of entrepreneurship.
 
 But tom tom's more a story of strange connections and expanding networks. A week ago I sent a tweet out to a recent student [EdSurge](https://www.edsurge.com/news/2016-04-07-why-student-voice-means-more-than-choice) contributor, [Keaton Wadzinski](https://twitter.com/kwadzki):
 
