@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tom Tom Connections"
+title:  "Tom Tom and the Art of the Virtual Friend"
 date:   2016-04-14 15:49:17 -0400
 ---
 
