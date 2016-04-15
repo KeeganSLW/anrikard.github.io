@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Do I Own my Domain if You Grade It?"
-date:   2015-11-30 15:49:17 -0400
+date:   2015-10-23 15:49:17 -0400
 ---
 
 _This article was initially posted in [Edsurge](https://www.edsurge.com/news/2015-08-10-do-i-own-my-domain-if-you-grade-it) on August 10, 2015._
