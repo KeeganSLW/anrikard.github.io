@@ -18,8 +18,8 @@ Only to start a DM chain of magnitude:
 
 And before I knew it, I'd asked for a place to stay - had a couch - and was on my way up.
 
-On Thursday, I got a chance to wander around the [Tom Tom Youth Summit](http://tomtomfest.com/events/youth-summit/) and Nikhil Goyal (incredible young voice in education reform) talked about leveraging youth to make connections. How you can cold-call-email anyone at any level and *probably* get a conversation/phone-call out of it.
+On Thursday, I wandered around the [Tom Tom Youth Summit](http://tomtomfest.com/events/youth-summit/), organized by Keaton, and Nikhil Goyal (incredible young voice in education reform) mentioned leveraging your youth to make connections. How you can cold-call-email anyone at any level and *probably* get a conversation out of it.
 
-Now - I do think privilege/credential/social-capital have sway here. Modern networking is flush with codes, cues, and secrets "natural" to the initiated and befuddling to the excluded. And this deserves a post of its own.
+Now, I do think privilege/credential/social-capital have sway here. Networking's flush with codes, cues, and secrets "natural" to the initiated and befuddling to the excluded. And this deserves a post of its own.
 
-BUT - most of the time - a note on twitter, a phone call - can turn into a conversation - can turn into a couch for the weekend. 
+But its the reaching out that matters. Breaking out of the isolated circles closest to you and driving some empathy. This is the realized potential of the web. Connecting disparate nodes with similar interests. When the flying bits and bytes turn into new drinking-ed-reform buddies, well its magic.
