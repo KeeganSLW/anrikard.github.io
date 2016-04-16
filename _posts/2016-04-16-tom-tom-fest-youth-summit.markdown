@@ -16,7 +16,7 @@ But that flight from the boring domination of lectures and essays quickly turns 
 
 I'd argue that the freedom lies in the thrill of oscillation. It's the transition away from one prison and the pleasure of exploring the second. The ability to move between them, between spaces, well that's the freedom. I'm never going to escape ideologies, right? But I can find freedom in moving between them, chuckling at the ironies of the "this machine kills venture capitalists" sticker next to the glowing apple logo.
 
-Oscillation in and out of power systems subverts the purpose of the powerful systems. Neither school nor Entrepreneurship can control you when your shifting quickly between them. In the same way, true community is subversion too. It's the unquantifiable love of a friend. The subversive freedom in this oscillation is the best type of community - using movement as a way to empathize across disparate spectra.
+Oscillation in and out of power systems subverts the purpose of the powerful systems. Neither school nor Entrepreneurship can control you when you shift quickly between them. In the same way, true community is subversion too. It's the unquantifiable love of a friend. The subversive freedom in this oscillation is the best type of community - using movement as a way to empathize across disparate spectra.
 
 One foot in and one foot out. Sleeping on couches at UVA.
 
