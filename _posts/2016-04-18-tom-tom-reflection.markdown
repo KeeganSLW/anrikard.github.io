@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "A continued use of words like "Border" and "Liminal" and "Tom Tom""
+title: "A continued use of words like 'Border' and 'Liminal' and 'Tom Tom'
 date: "2016-04-18 13:27"
 ---
 
