@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Students at Conferences - and Other Things You Rarely Hear About"
+title: "Where's the Student Voice at Conferences?"
 date: "2016-04-21 18:26"
 ---
 
