@@ -4,7 +4,7 @@ title: "Where's the Student Voice at Conferences?"
 date: "2016-04-21 18:26"
 ---
 
-_tldr come hang with me tomorrow in the Plugin Lounge at OLCInnovate. Especially if you're a student. Here's the [RSVP](https://docs.google.com/a/edsurge.com/forms/d/1Ch2MDvCmFsCCeJVH-BhkwFEvGz5R9UEA_2qM4ALO23s/viewform?c=0&w=1)._
+*tldr:* _come hang with me tomorrow in the Plugin Lounge at OLCInnovate. Especially if you're a student. Here's the [RSVP](https://docs.google.com/a/edsurge.com/forms/d/1Ch2MDvCmFsCCeJVH-BhkwFEvGz5R9UEA_2qM4ALO23s/viewform?c=0&w=1)._
 
 Conferences aren't made for students. At all. And it's structural, not an individual's fault, but everyone's problem. It's the collective result of a great slew of sloppy power structures.
 
