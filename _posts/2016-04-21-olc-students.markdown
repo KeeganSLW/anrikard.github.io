@@ -6,15 +6,15 @@ date: "2016-04-21 18:26"
 
 *tldr:* _come hang with me tomorrow in the Plugin Lounge at OLCInnovate. Especially if you're a student. Here's the [RSVP](https://docs.google.com/a/edsurge.com/forms/d/1Ch2MDvCmFsCCeJVH-BhkwFEvGz5R9UEA_2qM4ALO23s/viewform?c=0&w=1)._
 
-Conferences aren't made for students. At all. And it's structural, not an individual's fault, but everyone's problem. It's the collective result of a great slew of sloppy power structures.
+Conferences aren't made for students. At all. And it's structural.
 
-I'm Andrew, a lucky student from a Liberal Arts College, privileged. I am not here because I'm qualified (or at least my few qualifications aren't due to other qualifications). Rather I got to know the right faculty at the right time - radical faculty - innovative folks.
+This isn't an individual's fault, but everyone's problem. It's the collective result of a great slew of sloppy power structures. See, I'm a lucky student, privileged. I am not here because I'm qualified (or at least my few qualifications aren't due to other qualifications). Rather I got to know the right faculty at the right time - radical faculty - innovative folks.
 
-After a couple of conferences, this is the first conference I feel like I understand. It's comfortable to me. I know what works - and what doesn't. I can use the hashtag like a pro. I can be perfectly snarky about things like Vendors and Moocs. I've gained access to some interesting communities. And people ask, "How the hell are you here?"
+And this is the first conference I feel like I understand. It's my fifth. It's comfortable to me. I know what works - and what doesn't. I can use the hashtag like a pro. I can be perfectly snarky about things like Vendors and Moocs. I've gained access to some interesting communities. And people ask, "How the hell are you here?"
 
 I'm unsure. The idea of a conference is to gather together a group of people who do the same thing in different places. In this case, the "group" does education - digital ed. So academics, technologists, and industry folks are here. And they have a language - a jargon - to exchange information. And that language - which is based around students and their lives - is totally inaccessible to students and their lives.
 
-And somehow this inaccessibility - which has so much more to do with power than it does with intellect or capability or motivation - has us thinking it has everything to do with intellect or capability or motivation. In fact, students don't care. This would go over their heads. They don't care about pedagogy.
+And somehow this inaccessibility - which has so much more to do with power than it does with intellect or capability or motivation - has us thinking it has everything to do with intellect or capability or motivation. In fact, students don't care. This would go over their heads. They don't want to know words like pedagogy.
 
 And over the course of the past two days I've heard the word "empathy" used endlessly. But there's no empathy if you don't feel like you have a say in the structures that dominate you. In fact, you're herded, alienated - both parties are debarred from empathy.
 
