@@ -25,9 +25,9 @@ And so, again, conferences aren't made for students. They're made for talking ab
 And so I think the first step we should take is to include more students - and tracks for students - in these professional gathering about students. It's the democratic thing. And it's the uncomfortable thing. But its the vital thing.
 
 Examples could include:
-- reaching out to cohorts from local institutions of higher ed. Don't fly students in. Bring in the ones right here.
-- create legitimate tracks for students, providing student-led sessions introducing the language and style of conferences.
-- market access to virtual participation. Encourage cohorts from institutions to watch, discuss, and participate in the cloud.
+##### reaching out to cohorts from local institutions of higher ed. Don't fly students in. Bring in the ones right here.
+##### create legitimate tracks for students, providing student-led sessions introducing the language and style of conferences.
+##### market access to virtual participation. Encourage cohorts from institutions to watch, discuss, and participate in the cloud.
 
 If you trust students, enlighten them on the codes and structures of ed, and then invite them to dinner, they'll surprise the hell out of you.
 
