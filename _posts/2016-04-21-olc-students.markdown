@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Student Voice at OLC"
+title: "Students at Conferences - and Other Things You Rarely Hear About"
 date: "2016-04-21 18:26"
 ---
 
