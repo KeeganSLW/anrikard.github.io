@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Where's the Student Voice at Conferences?"
+title: "Where's the Students in NOLA?"
 date: "2016-04-21 18:26"
 ---
 
