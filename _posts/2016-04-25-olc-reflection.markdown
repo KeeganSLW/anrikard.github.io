@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Sorting Through Privilege as Power to Change the Way Things Are (OLC reflection)"
+title: "Sorting Through Privilege as Power to Change the Way Things Are"
 date: "2016-04-25 13:34"
 ---
 
@@ -30,4 +30,4 @@ And so perhaps the answer to this is to make spaces for challenging the "way thi
 
 That, for me, means encouraging student voice at conferences. Paying for marginalized students to speak on panels. Encouraging empathy between those who are making the system and those who are submitting to it. Getting student voices on paper and in podcasts and in the news. Because as long as privilege is a prerequisite to challenging the status quo, we're not operating in a democracy. As long as you need money and access before you can be heard, well - you're f-ed.
 
-Now, I don't know if this is the answer. Or even how to pitch an answer. Because I really don't have the greatest degree of empathy. But I'm working on it. And I'd love for you - if you read this - to respond to me in a Twitter DM or an email (in the footer). Lots to know. 
+Now, I don't know if this is the answer. Or even how to pitch an answer. Because I really don't have the greatest degree of empathy. But I'm working on it. And I'd love for you - if you read this - to respond to me in a Twitter DM or an email (in the footer). Lots to know.
