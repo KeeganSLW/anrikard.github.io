@@ -17,7 +17,7 @@ This also was prompted by [Robin DeRosa](https://twitter.com/actualham)'s tweet 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Working on a keynote for <a href="https://twitter.com/hashtag/OpenUnbound?src=hash">#OpenUnbound</a> at <a href="https://twitter.com/DavidsonCollege">@DavidsonCollege</a>. Help me out: what are the real barriers to working &quot;open?&quot; <a href="https://twitter.com/hashtag/digped?src=hash">#digped</a> <a href="https://twitter.com/hashtag/OpenEd16?src=hash">#OpenEd16</a> <a href="https://twitter.com/hashtag/OER?src=hash">#OER</a></p>&mdash; Robin DeRosa (@actualham) <a href="https://twitter.com/actualham/status/725465640497197056">April 27, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-My network may just be at critical mass. And I'd like to learn from it. Learn in public. Learn in process. So I'll start - more likely today than tomorrow - by flirting with these first few questions:
+My network may just be at critical mass. And I'd like to learn from it. Learn in public. Learn in process. So I'll start - more likely tomorrow than today - by flirting with these first few questions:
 
 - Who gets to work in the open (as I plan to work for 100 days)?
 - How does a network reach a critical mass? How do digital communities form? Who is being blocked from such communities by structures around access?
