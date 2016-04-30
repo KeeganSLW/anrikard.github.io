@@ -4,6 +4,7 @@ title: Learning in Public - the Next Hundred Days
 date: '2016-04-28 10:48'
 category: notes
 ---
+_day 1_
 
 Two weekends ago I was on a couch in UVA because of a twitter exchange. And I met a fellow named [Elliot Roth](https://medium.com/@elliotroth) who decided to spend a hundred days writing on Medium. A post a day. With the aim of becoming a better writer, of thinking forward in his field.
 

@@ -4,6 +4,7 @@ title: Thoughts on the Limitations of Student Voice.
 date: '2016-04-29 08:12'
 category: notes
 ---
+_day 2_
 
 _I wish this was more of an argument and less of a confused ramble. Always in process._
 
