@@ -4,7 +4,7 @@ title: "Distributed Student Networks"
 date: "2016-04-30 10:33"
 category: notes
 ---
-_day 3_
+_day 3 of learning in public. knowing very little. but knowing that little in the open. maybe prompting questions. maybe prompting thoughts of your own._
 
 I'm hardly a network expert - merely a curious journey-person. But I love them conceptually. They're alluring. A sort of dominant metaphor for the age. They're everywhere. We're all network, all node, all edge.
 
