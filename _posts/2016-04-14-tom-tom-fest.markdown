@@ -2,6 +2,7 @@
 layout: post
 title:  "Tom Tom Fest: the Art of the Virtual Friend"
 date:   2016-04-14 15:49:17 -0400
+category: notes
 ---
 
 So I've made it to [Tom Tom Fest](http://tomtomfest.com/) at UVA, folks. And I'm absolutely loving it. It's an exhausting feast of entrepreneurship.

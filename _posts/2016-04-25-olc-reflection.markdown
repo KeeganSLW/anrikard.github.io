@@ -2,6 +2,7 @@
 layout: "post"
 title: "Sorting Through Privilege as Power to Change the Way Things Are"
 date: "2016-04-25 13:34"
+category: notes
 ---
 
 So many thoughts.

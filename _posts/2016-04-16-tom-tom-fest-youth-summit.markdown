@@ -2,6 +2,7 @@
 layout: "post"
 title: "Tom Tom Fest: Community at the Broken Border"
 date: "2016-04-16 12:25"
+category: notes
 ---
 
 _Forgive my blogging fever dreams_

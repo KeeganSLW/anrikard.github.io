@@ -2,6 +2,7 @@
 layout: "post"
 title: "Sorting Through Monday's Sort Through: Privilege, Power, Ideology"
 date: "2016-04-27 07:33"
+category: notes
 ---
 Two days back, I wrote a piece entitled: ["Sorting Through Privilege as Power to Change the Way Things Are."](http://anrikard.github.io/2016/04/25/olc-reflection.html) And I think it excited folks to see a student asking questions in public in that way. But I also received feedback in the form of questions, hard questions. I'm going to explore one of them here. I'm thinking about this as *learning in public*.
 

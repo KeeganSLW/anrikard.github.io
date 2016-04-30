@@ -2,6 +2,7 @@
 layout: post
 title:  "#Elevate. Don’t let your dreams stay dreams."
 date:   2016-02-19 15:49:17 -0400
+category: notes
 ---
 
 This first appeared on [Medium.com](https://medium.com/@anrikard/elevate-my-10-minutes-with-shia-labeouf-9cff3a5f0a84#.cv9h0ddyn).

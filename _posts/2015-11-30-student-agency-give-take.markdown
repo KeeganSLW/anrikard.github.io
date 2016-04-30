@@ -2,6 +2,7 @@
 layout: post
 title:  "'Student Agency' is Not Something You Give or Take"
 date:   2015-11-30 15:49:17 -0400
+category: essays
 ---
 
 _This article was initially posted on [Edsurge](https://www.edsurge.com/news/2015-10-16-student-agency-is-not-something-you-give-or-take) on October 16, 2015._
