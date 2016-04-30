@@ -2,7 +2,7 @@
 layout: default
 description: categories
 ---
-<h1>Notes</h1>
+<h1>notes</h1>
 
 {% for post in site.categories.notes %}
   <p>

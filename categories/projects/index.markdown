@@ -2,7 +2,7 @@
 layout: default
 description: categories
 ---
-<h1>Projects</h1>
+<h1>projects</h1>
 
 {% for post in site.categories.projects %}
   <p>

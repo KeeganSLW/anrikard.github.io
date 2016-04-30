@@ -2,7 +2,7 @@
 layout: default
 description: categories
 ---
-<h1>Essays</h1>
+<h1>essays</h1>
 
 {% for post in site.categories.essays %}
   <p>
