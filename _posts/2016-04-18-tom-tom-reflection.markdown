@@ -2,6 +2,7 @@
 layout: "post"
 title: "A continued use of words like Border, Liminal, and Tom-Tom"
 date: "2016-04-18 13:27"
+category: notes
 ---
 
 I came to Charlottesville to connect with folks doing powerful work in Education. I did. So here's another reflection. I'm 30 minutes away from a presentation by Mary Jo Madda, Senior EdSurge Editor, and all-around bad*ss. And a need a moment to repaint the picture I started yesterday.

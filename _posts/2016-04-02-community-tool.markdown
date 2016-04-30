@@ -2,6 +2,7 @@
 layout: post
 title:  "community > tool"
 date:   2016-04-02 15:49:17 -0400
+category: notes
 ---
 
 _warning. i’m trying to blurb my life with less anxiety over what I write. views may not be my own._

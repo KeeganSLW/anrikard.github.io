@@ -2,6 +2,7 @@
 layout: post
 title:  "How Personal APIs Let Students Design Their Universities"
 date:   2016-04-08 15:49:17 -0400
+category: essays
 ---
 
 _This article initially appeared on [EdSurge.com](https://www.edsurge.com/news/2016-03-25-how-personal-apis-let-students-design-their-university) on March 25, 2016._

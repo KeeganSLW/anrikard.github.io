@@ -2,6 +2,7 @@
 layout: "post"
 title: "Tom Tom Fest: The SXSW for #StuVoice?"
 date: "2016-04-15 16:35"
+category: notes
 ---
 _Written in 15 minutes, tucked in the back of a full auditorium_
 

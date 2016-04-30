@@ -2,6 +2,7 @@
 layout: "post"
 title: "Where's the Students in NOLA?"
 date: "2016-04-21 18:26"
+category: notes
 ---
 
 *tldr:* _come hang with me tomorrow in the Plugin Lounge at OLCInnovate. Especially if you're a student. Here's the [RSVP](https://docs.google.com/a/edsurge.com/forms/d/1Ch2MDvCmFsCCeJVH-BhkwFEvGz5R9UEA_2qM4ALO23s/viewform?c=0&w=1)._
