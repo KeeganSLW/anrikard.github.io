@@ -3,6 +3,8 @@ layout: default
 description: About
 ---
 
+<h1>about</h1>
+
 The name’s Andrew. Tweet at me – @anrikard.
 
 I think about education quite a bit.
