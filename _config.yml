@@ -17,3 +17,5 @@ github_username:  anrikard
 
 # Build settings
 markdown: kramdown
+
+gems: []
