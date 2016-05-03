@@ -2,6 +2,7 @@
 layout: "post"
 title: "Grand Narrative"
 date: "2016-05-01 09:55"
+category: notes
 ---
 
 _day 4_

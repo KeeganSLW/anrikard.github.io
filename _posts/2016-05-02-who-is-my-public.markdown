@@ -2,6 +2,7 @@
 layout: "post"
 title: "Who is my public? and I?"
 date: "2016-05-02 20:16"
+category: notes
 ---
 
 _day 5_
