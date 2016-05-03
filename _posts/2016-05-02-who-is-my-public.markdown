@@ -9,7 +9,7 @@ _day 5_
 
 In a brief exchange today with [Adam Croom](http://adamcroom.com/), he asked me who I considered to be my public - and who I considered to be the public of "student voice." It's a question that challenges the often-times insulated communities of writers and tweeters. It's a question that challenges "open" and "public" as not any more open or public than ~350 followers. It's a guard against becoming comfortable in a "public" niche where those who read you like you, because you're "a student writing in public." That world might not offer many challenges.
 
-So who _is_ my public? I, a _public_ student writer.
+So who _is_ my public? I, a _public_ student writer. And what does that mean for me?
 
 At the moment I presume it's a small group of educators who are either my friends or fans of these sorts of experiments. There aren't students reading these bits. And so, with this knowledge, of course I'm writing with the educators in mind. I'm learning what you all like reading. You could say I've been learning for 2 years (since a first conference). My writing is a playful embodiment of "reclaimed identity", the "power of open", and a github-worthy "digital literacy." Woop woop.
 
