@@ -17,7 +17,7 @@ But it's also true that this reclaimed identity has developed in relation to the
 
 My identity hasn't risen out of this deep place of ultimate truth inside myself (something something Nietzche/Rorty/Derrida something something), but only ever in relation to the work being done around me. You could say I 'own' my identity. But it's still certainly modeled on folks I admire. I feel successfully socialized and thrillingly free - properly "made in the image" and flush with choice.
 
-And so the "public" learning that I do in this space could be better framed as follows: I'm writing to my small - rather insulated - network to sharpen my opinions and my medium-style-writing by mimicking, extending, and attempting to "complicate" the ideas passed around by this world of educators (mentors). This writing - more than anything - is an informal apprenticeship. And before I go "truly public" I'd love the challenges of my current "public." This current public that educates for a living.
+And so the "public" learning that I do in this space could be better framed as follows: I'm writing to my small - rather insulated - network to sharpen my opinions and my medium-style-writing by mimicking, extending, and attempting to "complicate" the ideas passed around by this world of educators (mentors). This writing - more than anything - is an informal apprenticeship. And before I go "truly public" I'd love the challenges of my current "public." This current public that educates for a living. There's so much to know.
 
 I'm going to leave you with a brief section from Susan Sontag's introduction to "Against Interpretation" which has helped me to reflect on these writings even before I've written most of them:
 
