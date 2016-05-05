@@ -2,6 +2,7 @@
 layout: "post"
 title: "Reclamation and Assessment"
 date: "2016-05-03 23:59"
+category: notes
 ---
 _a brief acknowledgement that I know next to nothing about academic assessment except as the recipient of said assessing - which makes much of my opining... useless? This piece is half-finished_
 

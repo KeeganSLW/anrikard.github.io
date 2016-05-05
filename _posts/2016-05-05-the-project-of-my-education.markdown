@@ -2,6 +2,7 @@
 layout: "post"
 title: "The Project of My Education"
 date: "2016-05-05 09:56"
+category: notes
 ---
 
 _This will be a series of quotes and thoughts_
