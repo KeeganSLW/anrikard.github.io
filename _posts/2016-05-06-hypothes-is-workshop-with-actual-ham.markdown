@@ -4,8 +4,6 @@ title: "Hypothes.is Workshop With Robin DeRosa"
 date: "2016-05-06 09:12"
 category: notes
 ---
-_Questions by workshop participants will occur in italics_
-
 Yesterday afternoon I drove to the CLT airport to pick up the ever wondrous and esteemed [Robin DeRosa](https://twitter.com/actualham?lang=en), who will be talking and workshopping at Davidson for the next few days.
 
 And the talk we had through the I-77 traffic confirmed all the good vibes: Foucault, Open, Access, Problematic, Deconstructed, Badges, Early American Lit, Modernism, Perspective, Empathy. More to come in a recounting of the weekend and my perpetually developing perspective.
