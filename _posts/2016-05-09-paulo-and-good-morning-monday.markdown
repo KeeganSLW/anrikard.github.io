@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Paulo and Good Morning Monday"
+title: "Sunday Freire"
 date: "2016-05-09 09:39"
 category: notes
 ---
