@@ -5,7 +5,7 @@ date: "2016-05-25 07:23"
 category: notes
 ---
 
-After a two-week hiatus, I'd like to start an open-facing research project - an attempt to pull together some narratives around Open, OER, and the business of it all. I'd really encourage using the comments here - I don't know what I'm talking about. I know _many_ people are thinking about this - so please don't expect anything new. Rather, help me where I'm missing things.
+After a two-week hiatus, I'd like to start an open-facing research project - an attempt to pull together some narratives around Open, OER, and the business of it all. I'd really encourage using the comments here - I don't know what I'm talking about. I know _many_ people are thinking about this - so please don't expect anything new. This is a cry for help from an often ignorant student.
 
 ### Open Pedagogy.
 
