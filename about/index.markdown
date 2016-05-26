@@ -5,11 +5,11 @@ description: About
 
 ### about
 
-I'm at Davidson College. My friends don't know I care about words like "pedagogy" or "EdTech".
+I'm at Davidson College.
 
 Tweet at me – @anrikard.
 
-But yeah, I think about education quite a bit.
+I think about education quite a bit.
 
 Academically, I’m interested in digital worlds, education, early 20th Century Literary Modernism, Feminist theory and criticism, network analysis, close readings and distant ones too.
 
